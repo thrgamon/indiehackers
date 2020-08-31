@@ -1,8 +1,4 @@
-body {
-  height: 100vh;
-  text-align: center;
-}
-
 body p {
   margin-top: 50vh;
+  text-align: center;
 }
